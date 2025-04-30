@@ -2,6 +2,7 @@
 
 Welcome to **Dcup** — your self-hostable, open-source RAG-as-a-Service platform!. With Dcup, you can connect your data sources, automatically chunk & embed your documents, and power lightning-fast, AI-driven search without vendor lock-in.
 
+![Dcup dev](https://github.com/user-attachments/assets/d6cfe83f-48ee-4935-a8d1-edf1fcd9abe7)
 ---
 
 ### 🌟 Why Dcup?
